@@ -4,13 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="dbc09a29-2a33-4160-9ba2-2df8a88381b6" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/material_theme_project_new.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.github/workflows/delivery.yml" beforeDir="false" afterPath="$PROJECT_DIR$/.github/workflows/delivery.yml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/deploy/compose.yml" beforeDir="false" afterPath="$PROJECT_DIR$/deploy/compose.yml" afterDir="false" />
-    </list>
+    <list default="true" id="dbc09a29-2a33-4160-9ba2-2df8a88381b6" name="Changes" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -51,60 +45,60 @@
   <component name="NextEditCompletionFeaturesState">
     <decayedCancelled>
       <entry key="MS100" value="1.0" />
-      <entry key="MS500" value="1.000000015898885" />
-      <entry key="S2" value="1.0544805391730394" />
-      <entry key="S5" value="2.159017477726555" />
-      <entry key="S10" value="4.227225256412909" />
-      <entry key="S30" value="8.788393845424107" />
-      <entry key="S60" value="17.33433739246238" />
-      <entry key="M2" value="31.68315041693897" />
-      <entry key="M5" value="49.59486528560634" />
-      <entry key="M10" value="58.4767535795636" />
-      <entry key="M15" value="63.62646799533856" />
-      <entry key="M30" value="92.36468407747469" />
-      <entry key="H1" value="176.4545691049584" />
-      <entry key="H2" value="311.64070337048094" />
-      <entry key="H4" value="459.31237460565285" />
-      <entry key="D1" value="686.0313497667207" />
-      <entry key="W1" value="741.1879876777313" />
+      <entry key="MS500" value="1.0000000000038973" />
+      <entry key="S2" value="1.0066103728911775" />
+      <entry key="S5" value="1.5297310277712302" />
+      <entry key="S10" value="3.3429707454158764" />
+      <entry key="S30" value="9.590117693585391" />
+      <entry key="S60" value="22.352937000879784" />
+      <entry key="M2" value="56.79886957881578" />
+      <entry key="M5" value="139.80638922413343" />
+      <entry key="M10" value="204.29835886759454" />
+      <entry key="M15" value="235.33619702347104" />
+      <entry key="M30" value="291.80458392559234" />
+      <entry key="H1" value="388.89676432738486" />
+      <entry key="H2" value="532.5289713722889" />
+      <entry key="H4" value="687.5354917642717" />
+      <entry key="D1" value="925.6149468593757" />
+      <entry key="W1" value="983.6667351023888" />
     </decayedCancelled>
     <decayedSelected>
       <entry key="MS100" value="0.0" />
-      <entry key="MS500" value="0.0" />
-      <entry key="S2" value="0.0" />
-      <entry key="S5" value="0.0" />
-      <entry key="S10" value="1.0231957853256327E-229" />
-      <entry key="S30" value="7.419342801006905E-77" />
-      <entry key="S60" value="1.2180334952354912E-38" />
-      <entry key="M2" value="1.560756014313135E-19" />
-      <entry key="M5" value="4.5552673302192725E-8" />
-      <entry key="M10" value="3.1251626164811576E-4" />
-      <entry key="M15" value="0.006287098500815688" />
-      <entry key="M30" value="0.1470097308975319" />
-      <entry key="H1" value="1.0187502413504614" />
-      <entry key="H2" value="3.8484235180687967" />
-      <entry key="H4" value="8.469432969626185" />
-      <entry key="D1" value="17.25945863553796" />
-      <entry key="W1" value="19.58154544301624" />
+      <entry key="MS500" value="2.418485319982289E-82" />
+      <entry key="S2" value="3.9435364912885036E-21" />
+      <entry key="S5" value="6.892151038801758E-9" />
+      <entry key="S10" value="8.310269826668409E-5" />
+      <entry key="S30" value="0.04868287331938665" />
+      <entry key="S60" value="0.3110109682480337" />
+      <entry key="M2" value="0.9806123741157425" />
+      <entry key="M5" value="2.2033893061892265" />
+      <entry key="M10" value="2.9521990878651927" />
+      <entry key="M15" value="3.266802399060399" />
+      <entry key="M30" value="3.7309654187711243" />
+      <entry key="H1" value="4.722609751933855" />
+      <entry key="H2" value="7.561547848259183" />
+      <entry key="H4" value="12.211915953711133" />
+      <entry key="D1" value="21.180076959286396" />
+      <entry key="W1" value="23.568822977711754" />
     </decayedSelected>
     <decayedShown>
-      <entry key="MS100" value="0.04358573957345017" />
-      <entry key="MS500" value="0.5344030114313227" />
-      <entry key="S2" value="0.9094162486925942" />
-      <entry key="S5" value="2.097710167868446" />
-      <entry key="S10" value="4.195585439668509" />
-      <entry key="S30" value="8.776427895603153" />
-      <entry key="S60" value="17.324331808692005" />
-      <entry key="M2" value="31.67266890045985" />
-      <entry key="M5" value="49.586641243321544" />
-      <entry key="M10" value="58.471718489304585" />
-      <entry key="M15" value="63.628798854579614" />
-      <entry key="M30" value="92.50899442439074" />
-      <entry key="H1" value="177.470623783571" />
-      <entry key="H2" value="315.4862420013784" />
-      <entry key="H4" value="467.7793268827229" />
-      <entry key="D1" value="703.2900979534004" />
-      <entry key="W1" value="760.7694208762259" />
+      <entry key="MS100" value="0.7845840978967508" />
+      <entry key="MS500" value="0.9526379980464272" />
+      <entry key="S2" value="0.9943329812414029" />
+      <entry key="S5" value="1.5197543614944615" />
+      <entry key="S10" value="3.3306281197389476" />
+      <entry key="S30" value="9.624004349745135" />
+      <entry key="S60" value="22.63965876534722" />
+      <entry key="M2" value="57.74913731495231" />
+      <entry key="M5" value="141.98431278704624" />
+      <entry key="M10" value="207.23299734741647" />
+      <entry key="M15" value="238.58975496278111" />
+      <entry key="M30" value="295.52757774677013" />
+      <entry key="H1" value="393.61392811890613" />
+      <entry key="H2" value="540.0862386744175" />
+      <entry key="H4" value="699.7442118724265" />
+      <entry key="D1" value="946.7941858487338" />
+      <entry key="W1" value="1007.2354272389903" />
     </decayedShown>
   </component>
   <component name="ProjectColorInfo">{
@@ -116,25 +110,25 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;ModuleVcsDetector.initialDetectionPerformed&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.typescript.service.memoryLimit.init&quot;: &quot;true&quot;,
-    &quot;Vitest.All Tests.executor&quot;: &quot;Run&quot;,
-    &quot;Vitest.cart.test.ts.executor&quot;: &quot;Run&quot;,
-    &quot;git-widget-placeholder&quot;: &quot;tp-3&quot;,
-    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
-    &quot;last_opened_file_path&quot;: &quot;/media/disque_d/DeveloppementWeb/CODA/B2/API/school-coda-b2-cap&quot;,
-    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
-    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
-    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
-    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
-    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
-    &quot;ts.external.directory.path&quot;: &quot;/home/everkoz/.local/share/JetBrains/Toolbox/apps/intellij-idea/plugins/javascript-plugin/jsLanguageServicesImpl/external&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "ModuleVcsDetector.initialDetectionPerformed": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.git.unshallow": "true",
+    "RunOnceActivity.typescript.service.memoryLimit.init": "true",
+    "Vitest.All Tests.executor": "Run",
+    "Vitest.cart.test.ts.executor": "Run",
+    "git-widget-placeholder": "Rebasing tp-3",
+    "kotlin-language-version-configured": "true",
+    "last_opened_file_path": "/media/disque_d/DeveloppementWeb/CODA/B2/API/school-coda-b2-cap",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "ts.external.directory.path": "/home/everkoz/.local/share/JetBrains/Toolbox/apps/intellij-idea/plugins/javascript-plugin/jsLanguageServicesImpl/external"
   }
-}</component>
+}]]></component>
   <component name="RunManager" selected="Vitest.All Tests">
     <configuration name="All Tests" type="JavaScriptTestRunnerVitest" temporary="true" nameIsGenerated="true">
       <node-interpreter value="project" />
