@@ -3,10 +3,11 @@ name: Delivery
 
 on:
   # TODO TP 4 : à chaque push sur main, sauf quand seul le dossier deploy/ change :
-  #   push:
-  #     branches: [main]
-  #     paths-ignore: ["deploy/**"]
-  workflow_dispatch:
+   push:
+     branches: [main]
+     paths-ignore: ["deploy/**"]
+
+workflow_dispatch:
 
 permissions:
   contents: read

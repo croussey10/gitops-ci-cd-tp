@@ -1,0 +1,196 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="dbc09a29-2a33-4160-9ba2-2df8a88381b6" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/material_theme_project_new.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.github/workflows/delivery.yml" beforeDir="false" afterPath="$PROJECT_DIR$/.github/workflows/delivery.yml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/deploy/compose.yml" beforeDir="false" afterPath="$PROJECT_DIR$/deploy/compose.yml" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GitToolBoxStore">
+    <option name="recentBranches">
+      <RecentBranches>
+        <option name="branchesForRepo">
+          <list>
+            <RecentBranchesForRepo>
+              <option name="branches">
+                <list>
+                  <RecentBranch>
+                    <option name="branchName" value="tp-3" />
+                    <option name="lastUsedInstant" value="1794475550" />
+                  </RecentBranch>
+                  <RecentBranch>
+                    <option name="branchName" value="tp-2" />
+                    <option name="lastUsedInstant" value="1794319315" />
+                  </RecentBranch>
+                  <RecentBranch>
+                    <option name="branchName" value="main" />
+                    <option name="lastUsedInstant" value="1794319314" />
+                  </RecentBranch>
+                </list>
+              </option>
+              <option name="repositoryRootUrl" value="file://$PROJECT_DIR$" />
+            </RecentBranchesForRepo>
+          </list>
+        </option>
+      </RecentBranches>
+    </option>
+  </component>
+  <component name="NextEditCompletionFeaturesState">
+    <decayedCancelled>
+      <entry key="MS100" value="1.0" />
+      <entry key="MS500" value="1.000000015898885" />
+      <entry key="S2" value="1.0544805391730394" />
+      <entry key="S5" value="2.159017477726555" />
+      <entry key="S10" value="4.227225256412909" />
+      <entry key="S30" value="8.788393845424107" />
+      <entry key="S60" value="17.33433739246238" />
+      <entry key="M2" value="31.68315041693897" />
+      <entry key="M5" value="49.59486528560634" />
+      <entry key="M10" value="58.4767535795636" />
+      <entry key="M15" value="63.62646799533856" />
+      <entry key="M30" value="92.36468407747469" />
+      <entry key="H1" value="176.4545691049584" />
+      <entry key="H2" value="311.64070337048094" />
+      <entry key="H4" value="459.31237460565285" />
+      <entry key="D1" value="686.0313497667207" />
+      <entry key="W1" value="741.1879876777313" />
+    </decayedCancelled>
+    <decayedSelected>
+      <entry key="MS100" value="0.0" />
+      <entry key="MS500" value="0.0" />
+      <entry key="S2" value="0.0" />
+      <entry key="S5" value="0.0" />
+      <entry key="S10" value="1.0231957853256327E-229" />
+      <entry key="S30" value="7.419342801006905E-77" />
+      <entry key="S60" value="1.2180334952354912E-38" />
+      <entry key="M2" value="1.560756014313135E-19" />
+      <entry key="M5" value="4.5552673302192725E-8" />
+      <entry key="M10" value="3.1251626164811576E-4" />
+      <entry key="M15" value="0.006287098500815688" />
+      <entry key="M30" value="0.1470097308975319" />
+      <entry key="H1" value="1.0187502413504614" />
+      <entry key="H2" value="3.8484235180687967" />
+      <entry key="H4" value="8.469432969626185" />
+      <entry key="D1" value="17.25945863553796" />
+      <entry key="W1" value="19.58154544301624" />
+    </decayedSelected>
+    <decayedShown>
+      <entry key="MS100" value="0.04358573957345017" />
+      <entry key="MS500" value="0.5344030114313227" />
+      <entry key="S2" value="0.9094162486925942" />
+      <entry key="S5" value="2.097710167868446" />
+      <entry key="S10" value="4.195585439668509" />
+      <entry key="S30" value="8.776427895603153" />
+      <entry key="S60" value="17.324331808692005" />
+      <entry key="M2" value="31.67266890045985" />
+      <entry key="M5" value="49.586641243321544" />
+      <entry key="M10" value="58.471718489304585" />
+      <entry key="M15" value="63.628798854579614" />
+      <entry key="M30" value="92.50899442439074" />
+      <entry key="H1" value="177.470623783571" />
+      <entry key="H2" value="315.4862420013784" />
+      <entry key="H4" value="467.7793268827229" />
+      <entry key="D1" value="703.2900979534004" />
+      <entry key="W1" value="760.7694208762259" />
+    </decayedShown>
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 3,
+  &quot;fromUser&quot;: false
+}</component>
+  <component name="ProjectId" id="3LsBLesgbV70I7ztxdmgNZNC7ov" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;ModuleVcsDetector.initialDetectionPerformed&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.typescript.service.memoryLimit.init&quot;: &quot;true&quot;,
+    &quot;Vitest.All Tests.executor&quot;: &quot;Run&quot;,
+    &quot;Vitest.cart.test.ts.executor&quot;: &quot;Run&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;tp-3&quot;,
+    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;/media/disque_d/DeveloppementWeb/CODA/B2/API/school-coda-b2-cap&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;ts.external.directory.path&quot;: &quot;/home/everkoz/.local/share/JetBrains/Toolbox/apps/intellij-idea/plugins/javascript-plugin/jsLanguageServicesImpl/external&quot;
+  }
+}</component>
+  <component name="RunManager" selected="Vitest.All Tests">
+    <configuration name="All Tests" type="JavaScriptTestRunnerVitest" temporary="true" nameIsGenerated="true">
+      <node-interpreter value="project" />
+      <vitest-package value="$PROJECT_DIR$/node_modules/vitest" />
+      <working-dir value="$PROJECT_DIR$" />
+      <envs />
+      <scope-kind value="ALL" />
+      <method v="2" />
+    </configuration>
+    <configuration name="cart.test.ts" type="JavaScriptTestRunnerVitest" temporary="true" nameIsGenerated="true">
+      <node-interpreter value="project" />
+      <vitest-package value="$PROJECT_DIR$/node_modules/vitest" />
+      <working-dir value="$PROJECT_DIR$" />
+      <vitest-options value="--run" />
+      <envs />
+      <scope-kind value="TEST_FILE" />
+      <test-file value="$PROJECT_DIR$/tests/cart.test.ts" />
+      <method v="2" />
+    </configuration>
+    <configuration default="true" type="JetRunConfigurationType">
+      <module name="gitops-ci-cd-tp" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="KotlinStandaloneScriptRunConfigurationType">
+      <module name="gitops-ci-cd-tp" />
+      <option name="filePath" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Vitest.All Tests" />
+        <item itemvalue="Vitest.cart.test.ts" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-jdk-30f59d01ecdd-ac68fc9d2b05-intellij.indexing.shared.core-IU-263.7307.200" />
+        <option value="bundled-js-predefined-d6986cc7102b-56aff7b04f6f-JavaScript-IU-263.7307.200" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="dbc09a29-2a33-4160-9ba2-2df8a88381b6" name="Changes" comment="" />
+      <created>1794232840558</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1794232840558</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+</project>
